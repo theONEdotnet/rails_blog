@@ -253,6 +253,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/byebug-9.0.6/lib" />
       </SOURCES>
     </library>
+    <library name="climate_control (v0.1.0, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/climate_control-0.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/climate_control-0.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="cocaine (v0.5.8, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/cocaine-0.5.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/cocaine-0.5.8/lib" />
+      </SOURCES>
+    </library>
     <library name="coffee-rails (v4.2.1, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/coffee-rails-4.2.1/lib" />
@@ -600,6 +616,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/mime-types-data-3.2016.0521/data" />
       </SOURCES>
     </library>
+    <library name="mimemagic (v0.3.2, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/mimemagic-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/mimemagic-0.3.2/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/mimemagic-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/mimemagic-0.3.2/script" />
+      </SOURCES>
+    </library>
     <library name="mini_portile2 (v2.1.0, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/mini_portile2-2.1.0/lib" />
@@ -688,6 +714,20 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/orm_adapter-0.5.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/orm_adapter-0.5.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="paperclip (v5.1.0, rbenv: 2.2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/paperclip-5.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/paperclip-5.1.0/features" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/paperclip-5.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/paperclip-5.1.0/shoulda_macros" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/paperclip-5.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/paperclip-5.1.0/features" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/paperclip-5.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/paperclip-5.1.0/shoulda_macros" />
       </SOURCES>
     </library>
     <library name="power_assert (v0.2.2, rbenv: 2.2.3) [gem]">
